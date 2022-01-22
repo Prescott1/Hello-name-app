@@ -3,5 +3,27 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 span{
-    color: red;
+    color: #437375;
+}
+button{
+    background-color: #f44c4f;
+    opacity: 1;
+    border: none;
+    padding: 12px 20px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: #f44c4f;
+    opacity: 0.7;
+    
+}
+
+input[type=text] {
+    border: 1px solid #f6a242;
+    border-radius: 4px;
+    padding: 12px 20px;
+}
+label{
+    font-size: large;
 }
